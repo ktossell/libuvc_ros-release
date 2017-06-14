@@ -1,3 +1,28 @@
+## libuvc_ros (jade) - 0.0.8-0
+
+The packages in the `libuvc_ros` repository were released into the `jade` distro by running `/home/k-okada/catkin_ws/ws_rosdep/bloom/devel/bin/bloom-release libuvc_ros --rosdistro jade --track jade --edit` on `Wed, 14 Jun 2017 14:48:52 -0000`
+
+These packages were released:
+- `libuvc_camera`
+- `libuvc_ros`
+
+Version of package(s) in repository `libuvc_ros`:
+
+- upstream repository: https://github.com/ros-drivers/libuvc_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## libuvc_ros (hydro) - 0.0.7-0
 
 User `ken@kcore.int80k.com` released the packages in the `libuvc_ros` repository into the `hydro` distro by running `/usr/bin/bloom-release libuvc_ros --track hydro --rosdistro hydro` on `Fri, 07 Mar 2014 01:14:55 -0000`
