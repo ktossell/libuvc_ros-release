@@ -1,3 +1,28 @@
+## libuvc_ros (jade) - 0.0.9-0
+
+The packages in the `libuvc_ros` repository were released into the `jade` distro by running `/usr/bin/bloom-release libuvc_ros -y --ros-distro jade --track jade` on `Thu, 15 Jun 2017 01:49:18 -0000`
+
+These packages were released:
+- `libuvc_camera`
+- `libuvc_ros`
+
+Version of package(s) in repository `libuvc_ros`:
+
+- upstream repository: https://github.com/ros-drivers/libuvc_ros.git
+- release repository: https://github.com/ros-drivers-gbp/libuvc_ros-release.git
+- rosdistro version: `0.0.8-0`
+- old version: `0.0.8-0`
+- new version: `0.0.9-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## libuvc_ros (kinetic) - 0.0.9-0
 
 The packages in the `libuvc_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release libuvc_ros -y --ros-distro kinetic --track kinetic` on `Thu, 15 Jun 2017 01:45:19 -0000`
