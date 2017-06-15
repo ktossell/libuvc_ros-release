@@ -1,0 +1,12 @@
+Source: ros-jade-libuvc-camera
+Section: misc
+Priority: extra
+Maintainer: Ken Tossell <ken@tossell.net>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-camera-info-manager, ros-jade-catkin, ros-jade-dynamic-reconfigure, ros-jade-image-transport, ros-jade-libuvc, ros-jade-nodelet, ros-jade-roscpp, ros-jade-sensor-msgs
+Homepage: http://ros.org/wiki/libuvc_camera
+Standards-Version: 3.9.2
+
+Package: ros-jade-libuvc-camera
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-camera-info-manager, ros-jade-dynamic-reconfigure, ros-jade-image-transport, ros-jade-libuvc, ros-jade-nodelet, ros-jade-roscpp, ros-jade-sensor-msgs
+Description: USB Video Class camera driver
