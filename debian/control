@@ -1,0 +1,12 @@
+Source: ros-lunar-libuvc-camera
+Section: misc
+Priority: extra
+Maintainer: Ken Tossell <ken@tossell.net>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-camera-info-manager, ros-lunar-catkin, ros-lunar-dynamic-reconfigure, ros-lunar-image-transport, ros-lunar-libuvc, ros-lunar-nodelet, ros-lunar-roscpp, ros-lunar-sensor-msgs
+Homepage: http://ros.org/wiki/libuvc_camera
+Standards-Version: 3.9.2
+
+Package: ros-lunar-libuvc-camera
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-camera-info-manager, ros-lunar-dynamic-reconfigure, ros-lunar-image-transport, ros-lunar-libuvc, ros-lunar-nodelet, ros-lunar-roscpp, ros-lunar-sensor-msgs
+Description: USB Video Class camera driver
