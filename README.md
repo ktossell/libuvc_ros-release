@@ -1,3 +1,28 @@
+## libuvc_ros (lunar) - 0.0.10-1
+
+The packages in the `libuvc_ros` repository were released into the `lunar` distro by running `/usr/bin/bloom-release libuvc_ros --track lunar --rosdistro lunar` on `Sat, 14 Apr 2018 05:18:59 -0000`
+
+These packages were released:
+- `libuvc_camera`
+- `libuvc_ros`
+
+Version of package(s) in repository `libuvc_ros`:
+
+- upstream repository: https://github.com/ros-drivers/libuvc_ros.git
+- release repository: https://github.com/ros-drivers-gbp/libuvc_ros-release.git
+- rosdistro version: `0.0.9-1`
+- old version: `0.0.10-0`
+- new version: `0.0.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## libuvc_ros (kinetic) - 0.0.10-0
 
 The packages in the `libuvc_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release libuvc_ros --track kinetic --rosdistro kinetic` on `Sat, 14 Apr 2018 05:11:29 -0000`
