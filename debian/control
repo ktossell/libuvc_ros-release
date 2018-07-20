@@ -1,0 +1,12 @@
+Source: ros-melodic-libuvc-camera
+Section: misc
+Priority: extra
+Maintainer: Ken Tossell <ken@tossell.net>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-libuvc, ros-melodic-camera-info-manager, ros-melodic-catkin, ros-melodic-dynamic-reconfigure, ros-melodic-image-transport, ros-melodic-nodelet, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Homepage: http://ros.org/wiki/libuvc_camera
+Standards-Version: 3.9.2
+
+Package: ros-melodic-libuvc-camera
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-libuvc, ros-melodic-camera-info-manager, ros-melodic-dynamic-reconfigure, ros-melodic-image-transport, ros-melodic-nodelet, ros-melodic-roscpp, ros-melodic-sensor-msgs
+Description: USB Video Class camera driver
