@@ -1,0 +1,12 @@
+Source: ros-noetic-libuvc-camera
+Section: misc
+Priority: optional
+Maintainer: Ken Tossell <ken@tossell.net>
+Build-Depends: debhelper (>= 9.0.0), libuvc-dev, ros-noetic-camera-info-manager, ros-noetic-catkin, ros-noetic-dynamic-reconfigure, ros-noetic-image-transport, ros-noetic-nodelet, ros-noetic-roscpp, ros-noetic-sensor-msgs
+Homepage: http://ros.org/wiki/libuvc_camera
+Standards-Version: 3.9.2
+
+Package: ros-noetic-libuvc-camera
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libuvc-dev, ros-noetic-camera-info-manager, ros-noetic-dynamic-reconfigure, ros-noetic-image-transport, ros-noetic-nodelet, ros-noetic-roscpp, ros-noetic-sensor-msgs
+Description: USB Video Class camera driver
