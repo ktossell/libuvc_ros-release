@@ -1,0 +1,12 @@
+Source: ros-noetic-libuvc-ros
+Section: misc
+Priority: optional
+Maintainer: Ken Tossell <ken@tossell.net>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin
+Homepage: http://ros.org/wiki/libuvc_ros
+Standards-Version: 3.9.2
+
+Package: ros-noetic-libuvc-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-libuvc-camera
+Description: libuvc_ros metapackage
