@@ -1,3 +1,28 @@
+## libuvc_ros (noetic) - 0.0.11-1
+
+The packages in the `libuvc_ros` repository were released into the `noetic` distro by running `/usr/bin/bloom-release libuvc_ros --track noetic --rosdistro noetic` on `Sat, 20 Feb 2021 02:51:46 -0000`
+
+These packages were released:
+- `libuvc_camera`
+- `libuvc_ros`
+
+Version of package(s) in repository `libuvc_ros`:
+
+- upstream repository: https://github.com/ros-drivers/libuvc_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.11-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.1`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## libuvc_ros (melodic) - 0.0.10-1
 
 The packages in the `libuvc_ros` repository were released into the `melodic` distro by running `/usr/bin/bloom-release libuvc_ros --track melodic --rosdistro melodic` on `Mon, 23 Jul 2018 01:00:43 -0000`
