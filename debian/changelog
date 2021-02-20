@@ -1,0 +1,74 @@
+ros-noetic-libuvc-ros (0.0.11-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Sat, 20 Feb 2021 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.10-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Fri, 13 Apr 2018 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.9-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Thu, 15 Jun 2017 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.8-1focal) focal; urgency=high
+
+  * add ROS Orphaned Package Maintainers to maintainer tag
+  * Contributors: Kei Okada
+
+ -- Ken Tossell <ken@tossell.net>  Wed, 14 Jun 2017 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.7-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Thu, 06 Mar 2014 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.6-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Thu, 19 Dec 2013 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.5-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Fri, 04 Oct 2013 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.4-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Mon, 23 Sep 2013 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.3-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Mon, 23 Sep 2013 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.2-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Mon, 12 Aug 2013 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.1-1focal) focal; urgency=high
+
+
+
+ -- Ken Tossell <ken@tossell.net>  Thu, 01 Aug 2013 00:00:00 -0000
+
+ros-noetic-libuvc-ros (0.0.0-1focal) focal; urgency=high
+
+  * adding missing catkin files
+
+ -- Ken Tossell <ken@tossell.net>  Thu, 27 Jun 2013 00:00:00 -0000
+
+
